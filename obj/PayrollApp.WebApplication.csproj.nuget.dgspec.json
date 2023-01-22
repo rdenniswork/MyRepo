@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication\\PayrollApp.WebApplication.csproj": {}
+    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication22\\PayrollApp.WebApplication.csproj": {}
   },
   "projects": {
     "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.BusinessLogic\\PayrollApp.BusinessLogic.csproj": {
@@ -197,14 +197,14 @@
         }
       }
     },
-    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication\\PayrollApp.WebApplication.csproj": {
+    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication22\\PayrollApp.WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication\\PayrollApp.WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication22\\PayrollApp.WebApplication.csproj",
         "projectName": "PayrollApp.WebApplication",
-        "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication\\PayrollApp.WebApplication.csproj",
+        "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication22\\PayrollApp.WebApplication.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.WebApplication22\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
