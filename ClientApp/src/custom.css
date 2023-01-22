@@ -1,0 +1,37 @@
+.btn-primary {
+  background-color: LightGray;
+  color: Black;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.maindiv {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.generalelements {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
